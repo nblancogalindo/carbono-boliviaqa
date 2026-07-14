@@ -18,7 +18,7 @@ now, no one had published a benchmark focused on Bolivia.
 This is a first, deliberately narrow measurement, not a complete
 statistical portrait of AI-in-Bolivia — evidence of a potential disparity
 worth exploring further, built to be re-run and pressure-tested. Full
-limits below.
+scope and limits under the results.
 
 Five results:
 
