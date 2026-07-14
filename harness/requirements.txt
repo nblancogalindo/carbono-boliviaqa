@@ -1,0 +1,3 @@
+# Carbono harness — Python 3.9+
+pyyaml>=6.0
+requests>=2.31   # live runs only; --dry-run is stdlib+pyyaml
