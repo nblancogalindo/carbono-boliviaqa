@@ -16,6 +16,9 @@ tags:
 pretty_name: "Carbono: BoliviaQA"
 size_categories:
   - n<1K
+configs:
+  - config_name: default
+    data_files: boliviaqa-v1.0.jsonl
 ---
 
 # Carbono: BoliviaQA v1.0
